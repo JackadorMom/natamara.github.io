@@ -1,0 +1,62 @@
+/*index-styles*/
+
+.header {
+    background-color: #A8B284;
+    padding: 5px;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.logo {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    padding: 10%;
+    text-align: center;
+}
+
+.ul {
+    float: left;
+    color:antiquewhite;
+}
+
+.li_inline-block {
+    display: inline-block;
+    padding: 0px 10px;
+}
+
+header p {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.me {
+    width: 15%;
+    height: auto;
+    padding: 30px;
+
+}
+
+nav {
+    display: inline-block;
+}
+.content {
+    margin: auto;
+    text-align: center;
+    padding-right: 5px;
+}
+
+h2 {
+ display: block;
+ font-size: medium;
+ font-weight: bold;
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+    display: inline-block;
+    background-color: #A8B284;
+    vertical-align: bottom;
+}
